@@ -1,0 +1,202 @@
+a .nav-link {
+	/* Font & Text */
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 200;
+	letter-spacing: normal;
+	line-height: 28.8px;
+	text-decoration: none solid rgba(255, 255, 255, 0.75);
+	text-align: left;
+	text-indent: 0px;
+	text-transform: none;
+	vertical-align: baseline;
+	white-space: normal;
+	word-spacing: 0px;
+
+	/* Color & Background */
+	background-attachment: scroll;
+	background-color: rgba(0, 0, 0, 0);
+	background-image: none;
+	background-position: 0% 0%;
+	background-repeat: repeat;
+	color: rgba(255, 255, 255, 0.75);
+
+	/* Box */
+	height: 44px;
+	width: 125px;
+	border: 0px none rgba(255, 255, 255, 0.75);
+	border-top: 0px none rgba(255, 255, 255, 0.75);
+	border-right: 0px none rgba(255, 255, 255, 0.75);
+	border-bottom: 0px none rgba(255, 255, 255, 0.75);
+	border-left: 0px none rgba(255, 255, 255, 0.75);
+	margin: 0px;
+	padding: 8px 16px;
+	max-height: none;
+	min-height: 0px;
+	max-width: none;
+	min-width: 0px;
+
+	/* Positioning */
+	position: static;
+	top: auto;
+	bottom: auto;
+	right: auto;
+	left: auto;
+	float: none;
+	display: block;
+	clear: none;
+	z-index: auto;
+
+	/* List */
+	list-style-image: none;
+	list-style-type: none;
+	list-style-position: outside;
+
+	/* Table */
+	border-collapse: separate;
+	border-spacing: 0px 0px;
+	caption-side: top;
+	empty-cells: show;
+	table-layout: auto;
+
+	/* Miscellaneous */
+	overflow: visible;
+	cursor: pointer;
+	visibility: visible;
+
+	/* Effects */
+	transform: none;
+	transition: all 0.3s ease 0s;
+	outline: rgb(77, 144, 254) dashed 5px;
+	outline-offset: 0px;
+	box-sizing: border-box;
+	resize: none;
+	text-shadow: none;
+	text-overflow: clip;
+	word-wrap: normal;
+	box-shadow: none;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+}
+
+
+
+footer .section footer-section {
+	/* Font & Text */
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 200;
+	letter-spacing: normal;
+	line-height: 28.8px;
+	text-decoration: none solid rgb(255, 255, 255);
+	text-align: left;
+	text-indent: 0px;
+	text-transform: none;
+	vertical-align: baseline;
+	white-space: normal;
+	word-spacing: 0px;
+
+	/* Color & Background */
+	background-attachment: scroll;
+	background-color: rgb(26, 26, 26);
+	background-image: none;
+	background-position: 0% 0%;
+	background-repeat: repeat;
+	color: rgb(255, 255, 255);
+
+	/* Box */
+	height: 272px;
+	width: 1349px;
+	border: 0px none rgb(255, 255, 255);
+	border-top: 0px none rgb(255, 255, 255);
+	border-right: 0px none rgb(255, 255, 255);
+	border-bottom: 0px none rgb(255, 255, 255);
+	border-left: 0px none rgb(255, 255, 255);
+	margin: 0px;
+	padding: 112px 0px;
+	max-height: none;
+	min-height: 0px;
+	max-width: none;
+	min-width: 0px;
+
+	/* Positioning */
+	position: static;
+	top: auto;
+	bottom: auto;
+	right: auto;
+	left: auto;
+	float: none;
+	display: block;
+	clear: none;
+	z-index: auto;
+
+	/* List */
+	list-style-image: none;
+	list-style-type: disc;
+	list-style-position: outside;
+
+	/* Table */
+	border-collapse: separate;
+	border-spacing: 0px 0px;
+	caption-side: top;
+	empty-cells: show;
+	table-layout: auto;
+
+	/* Miscellaneous */
+	overflow: visible;
+	cursor: auto;
+	visibility: visible;
+
+	/* Effects */
+	transform: none;
+	transition: all 0s ease 0s;
+	outline: rgb(255, 0, 0) dashed 1px;
+	outline-offset: 0px;
+	box-sizing: border-box;
+	resize: none;
+	text-shadow: none;
+	text-overflow: clip;
+	word-wrap: normal;
+	box-shadow: none;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+}
+
+
+a :hover
+{
+	border-color: #007bff !important;
+	background-color: #007bff !important;
+	color: white;
+
+}
+
+p
+{
+	color:black !important;
+}
+
+strong
+{
+	color:black !important;
+}
+
+a
+{
+	color:black !important;
+}
+
+nav
+{
+	padding-top: 0px !important;
+    background-color: #00c141 !important;
+    padding-bottom: 0px !important;
+}
